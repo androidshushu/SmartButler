@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartButlerApp</string>
+    <string name="butlerFragmentName">服务管家</string>
+    <string name="weChatFragmentName">微信精选</string>
+    <string name="girlFragmentName">美女社区</string>
+    <string name="userFragmentName">个人中心</string>
+    <string name="setting">设置</string>
+
+
+</resources>
