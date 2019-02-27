@@ -15,7 +15,7 @@ public class SettingActivity extends BaseActivity {
 
     }
     Paint paint = new Paint();
-    -+
+
 
 
 
